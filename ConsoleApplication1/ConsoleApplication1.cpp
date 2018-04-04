@@ -12,6 +12,7 @@ int main()
 
 int SUM(int a, int b)
 {
+    // Editted from GitHub
     int c = a + b;
     return c;
 }
